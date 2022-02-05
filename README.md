@@ -1,4 +1,4 @@
-# Analise Espacial com Dataset do PIB do estado de São Paulo - Brasil com Plotagem em 3D
+# Análise Espacial com Dataset do PIB do estado de São Paulo - Brasil com Plotagem em 3D
 Análise Espacial utilizando biliotecas do rayshader, tidyverse e ggplot.
 Todos os datasets podem ser encontrados no repositório.
 
